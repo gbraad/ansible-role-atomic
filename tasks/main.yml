@@ -1,0 +1,3 @@
+---
+- name: Install Atomic management tool
+  package: name=atomic state=installed
